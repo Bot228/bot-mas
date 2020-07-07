@@ -1,10 +1,7 @@
-pyTelegramBotAPI==3.6.6
-typing==3.6.4
 beautifulsoup4==4.9.1
+pyTelegramBotAPI==3.6.6
 requests==2.7.0
-urllib3==1.25.9
-telebot==0.0.3
-soupsieve==2.0.1
 six==1.12.0
-setuptools==39.1.0
-pip==10.0.1
+soupsieve==2.0.1
+telebot==0.0.3
+urllib3==1.25.9
